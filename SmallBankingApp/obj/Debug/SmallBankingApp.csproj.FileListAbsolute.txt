@@ -1,0 +1,15 @@
+D:\PROGRAMMES\CSHARP_projets\SmallBankingApp\SmallBankingApp\bin\Debug\SmallBankingApp.exe.config
+D:\PROGRAMMES\CSHARP_projets\SmallBankingApp\SmallBankingApp\bin\Debug\SmallBankingApp.exe
+D:\PROGRAMMES\CSHARP_projets\SmallBankingApp\SmallBankingApp\bin\Debug\SmallBankingApp.pdb
+D:\PROGRAMMES\CSHARP_projets\SmallBankingApp\SmallBankingApp\obj\Debug\SmallBankingApp.csprojResolveAssemblyReference.cache
+D:\PROGRAMMES\CSHARP_projets\SmallBankingApp\SmallBankingApp\obj\Debug\SmallBankingApp.exe
+D:\PROGRAMMES\CSHARP_projets\SmallBankingApp\SmallBankingApp\obj\Debug\SmallBankingApp.pdb
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\OLD\SmallBankingApp\SmallBankingApp\SmallBankingApp\bin\Debug\SmallBankingApp.exe.config
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\OLD\SmallBankingApp\SmallBankingApp\SmallBankingApp\obj\Debug\SmallBankingApp.exe
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\OLD\SmallBankingApp\SmallBankingApp\SmallBankingApp\obj\Debug\SmallBankingApp.pdb
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SmallBankingApp\SmallBankingApp\bin\Debug\SmallBankingApp.exe.config
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SmallBankingApp\SmallBankingApp\obj\Debug\SmallBankingApp.exe
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SmallBankingApp\SmallBankingApp\obj\Debug\SmallBankingApp.pdb
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SmallBankingApp\SmallBankingApp\bin\Debug\SmallBankingApp.exe
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SmallBankingApp\SmallBankingApp\bin\Debug\SmallBankingApp.pdb
+C:\Users\helios\Desktop\BUREAU_HERE\LES_PLANS\PLAN_TECH\INFORMATIQUE\STRATEGIE_INFO\GITHUB_HERE\TOUS_MES_PROJETS_INFOS_HERE\CSHARP\SmallBankingApp\SmallBankingApp\obj\Debug\SmallBankingApp.csprojResolveAssemblyReference.cache
